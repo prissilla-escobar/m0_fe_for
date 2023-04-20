@@ -23,7 +23,7 @@ var words = ["car", "bike", "bus", "van", "scooter", "truck", "rv"]
 
 for (var i = 0; i < words.length; i++) 
 
-  if (words.length = 3) {
+  if (words[i].length === 3) {
   console.log(words[i])
 }
 // I'm sorry, I really cannot figure this one out. I am going to have to ask about it tomorrow
